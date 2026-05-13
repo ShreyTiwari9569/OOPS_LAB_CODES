@@ -43,4 +43,8 @@ int main()
         cout << "Division by zero is not possible." << endl;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9167819630682fcf25a47cd4f8203e2e7eafa026
